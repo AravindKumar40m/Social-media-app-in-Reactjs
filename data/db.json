@@ -1,0 +1,28 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "title": "My First post",
+            "datetime": "July 01,2021 11:17:36 AM",
+            "body": "Made a video about Tesla Q1 results"
+        },
+        {
+            "id": 2,
+            "title": "My 2nd post",
+            "datetime": "July 01,2021 11:17:36 AM",
+            "body": "I attend a DEfi blockchain event"
+        },
+        {
+            "id": 3,
+            "title": "My 3rd post",
+            "datetime": "July 01,2021 11:17:36 AM",
+            "body": "Web3 global submit next week"
+        },
+        {
+            "id": 4,
+            "title": "My 4th post",
+            "datetime": "July 01,2021 11:17:36 AM",
+            "body": "hello how are you"
+        }
+    ]
+}
